@@ -9,7 +9,7 @@ This exercise is designed to assess your ability to analyze requirements clearly
 4. Create model specs for each feature
 5. Create a flow diagram architecture for each feature
 
-### Following Principles and Best Practices:
+### Follow Principles and Best Practices:
 
 - Clean Architecture
 - Design Pattern (At least 2 Design Pattern)
