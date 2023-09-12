@@ -10,7 +10,6 @@ This exercise is designed to assess your ability to analyze requirements clearly
 5. Create a flow diagram architecture for each feature
 
 ### Follow Principles and Best Practices:
-
 - Clean Architecture
 - Design Pattern (At least 2 Design Pattern)
 - Object-Oriented Programming
@@ -33,4 +32,5 @@ This exercise is designed to assess your ability to analyze requirements clearly
 - Domain Modeling
 - Command-Query Separation
 
-[Hi-Fi Design](https://www.figma.com/file/fMARq1bHk8nmvvijlM4pB3/Untitled?type=design&node-id=0%3A1&mode=design&t=sIGB7hAL5Zx3FQ4U-1)
+### Hi-Fi Design
+[Figma](https://www.figma.com/file/fMARq1bHk8nmvvijlM4pB3/Untitled?type=design&node-id=0%3A1&mode=design&t=sIGB7hAL5Zx3FQ4U-1)
