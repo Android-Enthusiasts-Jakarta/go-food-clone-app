@@ -1,4 +1,4 @@
-# Build Go Food Clone App
+# Build GoFood Clone App
 
 This exercise is designed to assess your ability to analyze requirements clearly to understand what the business truly needs and to tackle the complexity of a system. It also aims to cultivate the habit of building apps using Use Case Driven, along with flowcharts and flow diagram architecture, to ensure a clear understanding of what you want the system to be built.
 
@@ -10,3 +10,27 @@ This exercise is designed to assess your ability to analyze requirements clearly
 5. Create a flow diagram architecture for each feature
 
 [Hi-Fi Design](https://www.figma.com/file/fMARq1bHk8nmvvijlM4pB3/Untitled?type=design&node-id=0%3A1&mode=design&t=sIGB7hAL5Zx3FQ4U-1)
+
+Your app should be following principles and practices such as:
+
+- Clean Architecture
+- Design Pattern (At least 2 Design Pattern)
+- Object-Oriented Programming
+- Dependency Diagram
+- Single Responsibility Principle (SRP)
+- Open-Closed Principle (OCP)
+- Liskov Substitution Principle (LSP)
+- Interface Segregation Principle (ISP)
+- Dependency Inversion Principle (DIP)
+- Keep It Simple, Stupid! (KISS)
+- Don’t Repeat Yourself (DRY)
+- You Aren't Gonna Need It (YAGNI)
+- Functional Programming
+- Dependency Injection
+- Use Case Driven
+- Domain-Driven Design (DDD)
+- Modular and Architecture Design
+- Version Control with Git
+- Concurrency and Threading
+- Domain Modeling
+- Command-Query Separation
