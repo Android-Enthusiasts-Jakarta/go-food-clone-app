@@ -1,4 +1,4 @@
-# Build a Go Food Clone App
+# Build Go Food Clone App
 
 This exercise is designed to assess your ability to analyze requirements clearly to understand what the business truly needs and to tackle the complexity of a system. It also aims to cultivate the habit of building apps using Use Case-Driven development, along with flowcharts and flow diagram architecture, to ensure a clear understanding of what you want the system to be built.
 
