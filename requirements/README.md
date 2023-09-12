@@ -8,3 +8,5 @@ This exercise is designed to assess your ability to analyze requirements clearly
 3. Create a flowchart for each feature
 4. Create model specs for each feature
 5. Create a flow diagram architecture for each feature
+
+[Hi-Fi Design](https://www.figma.com/file/fMARq1bHk8nmvvijlM4pB3/Untitled?type=design&node-id=0%3A1&mode=design&t=sIGB7hAL5Zx3FQ4U-1)
