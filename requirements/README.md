@@ -1,6 +1,6 @@
 # Build GoFood Clone App
 
-This challenge is designed to assess your ability to analyze requirements clearly to understand what the business truly needs and to tackle the complexity of a system. It also aims to cultivate the habit of building apps using Use Case Driven, along with flowcharts and flow diagram architecture, to ensure a clear understanding of what you want the system to be built.
+This exercise is designed to challenge your ability to analyze requirements clearly, understand what the business truly needs, and tackle the complexity of a system. It also aims to cultivate the habit of building apps using Use Case Driven, along with flowcharts and flow diagram architecture, to ensure a clear understanding of what you want the system to be built for.
 
 ### Todo
 1. Analyze requirements
