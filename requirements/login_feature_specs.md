@@ -2,7 +2,7 @@
 
 ## BDD Specs
 
-## Login Feature Specs
+## Login Feature
 
 ### Narrative #1
 
