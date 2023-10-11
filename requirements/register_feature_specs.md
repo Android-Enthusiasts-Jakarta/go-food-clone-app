@@ -27,22 +27,22 @@ Then the app should display home screen
 ### Register Account Remote Use Case
 
 #### Data:
-| Property             | Type           |
-|----------------------|----------------|
-| `id`                 | `String`       |
-| `name`               | `String`       |
-| `paymentInformation` | `Value Object` |
+- User
 
-| Property       | Type     |
-|----------------|----------|
-| `id`           | `String` |
-| `name`         | `String` |
-| `fullName`     | `String` |
+| Property                | Type     |
+|-------------------------|----------|
+| `name`                  | `String` |
+| `email`                 | `String` |
+| `password`              | `String` |
+| `password_confirmation` | `String` |
+| `address`               | `String` |
+| `city`                  | `String` |
+| `houseNumber`           | `String` |
+| `phoneNumber`           | `String` |
 
 #### Primary Course (Happy Path):
 1. Execute "Register Account" command with above data.
-2. System downloads data from the URL.
-3. System validates downloaded data.
+2. System validates all data.
 4. System creates user account from valid data.
 5. System delivers user account and navigates to the home screen.
 
@@ -64,6 +64,7 @@ Then the app should display home screen
 ### Save User Account Use Case
 
 #### Data:
+- Access Token
 - User Account
 
 #### Primary Course (Happy Path):
