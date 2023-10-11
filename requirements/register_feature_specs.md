@@ -27,10 +27,10 @@ Then the app should display home screen
 ### Register Account Remote Use Case
 
 #### Data:
-| Property             | Type     |
-|----------------------|----------|
-| `id`                 | `String` |
-| `name`               | `String` |
+| Property             | Type           |
+|----------------------|----------------|
+| `id`                 | `String`       |
+| `name`               | `String`       |
 | `paymentInformation` | `Value Object` |
 
 | Property       | Type     |
