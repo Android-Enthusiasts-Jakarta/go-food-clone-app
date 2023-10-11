@@ -2,7 +2,7 @@
 
 ## BDD Specs
 
-## Feature: Register
+## Register Feature
 
 ### Narrative #1
 
