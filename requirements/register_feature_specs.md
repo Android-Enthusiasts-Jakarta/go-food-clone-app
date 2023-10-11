@@ -27,8 +27,7 @@ Then the app should display home screen
 ### Register Account Remote Use Case
 
 #### Data:
-- URL
-- User
+<User>
 
 #### Primary Course (Happy Path):
 1. Execute "Register Account" command with above data.
