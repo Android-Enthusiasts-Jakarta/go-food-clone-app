@@ -27,15 +27,18 @@ Then the app should display the home screen
 ### Login Account Remote Use Case
 
 #### Data:
-- URL
-- User Account
+- User
+
+| Property                | Type     |
+|-------------------------|----------|
+| `email`                 | `String` |
+| `password`              | `String` |
 
 #### Primary Course (Happy Path):
 1. Execute "Login Account" command with above data.
-2. System downloads data from the URL.
-3. System validates downloaded data.
-4. System creates user account from valid data.
-5. System delivers user account and navigates to the home screen.
+2. System validates all data.
+3. System creates user account from valid data.
+4. System delivers user account and navigates to the home screen.
 
 #### No Connectivity – Error Course (Sad Path):
 1. System delivers connectivity error.
@@ -55,6 +58,7 @@ Then the app should display the home screen
 ### Save Session Use Case
 
 #### Data:
+- Access Token
 - User Account
 
 #### Primary Course (Happy Path):
